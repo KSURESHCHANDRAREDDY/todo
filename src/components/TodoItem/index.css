@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.todoitem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+button {
+  background-color: white;
+  color: black;
+  border: solid;
+  border-color: #ff0b37;
+  border-radius: 0.5rem;
+  width: 5rem;
+  height: 3rem;
+}
